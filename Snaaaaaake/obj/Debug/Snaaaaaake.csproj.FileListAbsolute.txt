@@ -1,0 +1,19 @@
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\bin\Debug\Snaaaaaake.exe.config
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.Form1.resources
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.Properties.Resources.resources
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.csproj.GenerateResource.Cache
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\bin\Debug\Snaaaaaake.exe
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\bin\Debug\Snaaaaaake.pdb
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.exe
+c:\users\steven\documents\visual studio 2015\Projects\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.pdb
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\bin\Debug\Snaaaaaake.exe.config
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\bin\Debug\Snaaaaaake.exe
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\bin\Debug\Snaaaaaake.pdb
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.Form1.resources
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.Properties.Resources.resources
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.csproj.GenerateResource.Cache
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.exe
+C:\Users\Steven\Documents\repo\Snaaaaaake\Snaaaaaake\obj\Debug\Snaaaaaake.pdb
